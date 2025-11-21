@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Entorno
+.env
+
+# Audio temporal
+temp_audio/
+*.mp3
+*.wav
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# PyInstaller
+build/
+dist/
+*.spec.orig
+task-notifier-release/
+task-notifier-release.zip
+.DS_Store
